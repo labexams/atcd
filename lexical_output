@@ -1,0 +1,36 @@
+Input:
+
+#include <stdio.h>
+void main() {
+    int a = 5 , b = 6 , c ;
+    c = a + b ;
+}
+
+
+
+
+output:
+# is a special character
+include is a keyword
+< is a special character
+stdio.h is a header file
+> is a special character
+void is a keyword
+main() is a identifier
+{ is a special character
+int is a keyword
+a is a identifier
+= is a special character
+5 is a number
+b is a identifier
+= is a special character
+6 is a number
+c is a identifier
+; is a special character
+c is a identifier
+= is a special character
+a is a identifier
++ is a special character
+b is a identifier
+; is a special character
+} is a special character
