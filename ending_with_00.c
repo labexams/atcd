@@ -7,12 +7,16 @@ void main(){
         switch (f) {
             case 'A':f = in[i]=='0'?'B':'A';
                 break;
-            case 'B':f = in[i]=='0'?'B':'C';
+            case 'B':f = in[i]=='0'?'C':'A';
                 break;
-            case 'C':f = in[i]=='0'?'B':'A';
+            case 'C':f = in[i]=='0'?'C':'A';
                 break;
         }
     }
     if(f=='C')printf("\nAccepted");
     else printf("\nRejected");
 }
+
+
+
+M
